@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GUIInterface()
+comment0.text=The\ constructor\ for\ the\ Driver\ class\ creates\ the\ GUI\ and\ calls\na\ method\ to\ fill\ the\ report\ combo\ box\ with\ initial\ values.\ It\nthen\ displays\ this\ comboBox\ on\ the\ pane.\n\n
+comment1.target=void\ fillReportCombo()
+comment1.text=This\ method\ fills\ the\ reportCombo\ box\ with\ initial\ values.\n\n
+comment2.params=event
+comment2.target=void\ actionPerformed(ActionEvent)
+comment2.text=This\ method\ is\ called\ when\ the\ user\ clicks\ on\ a\ button\ in\ the\ Interface.\nThe\ method\ checks\ to\ see\ if\ the\ user\ clicked\ on\ the\ SUBMIT\ button.\ \ If\ so,\nit\ prints\ the\ selected\ report.\n\n\n
+numComments=3
